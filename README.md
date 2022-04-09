@@ -19,7 +19,7 @@ Considering the standard cron format with five time fields (minute, hour, day of
 ## Steps To Run  
 - Download the project into any workspace
 - Open any java IDE and import as maven project 
-- Run the maven project (Jar file will be created)
+- Run the maven project (Jar file will be created).     ** (Download the Jar file from target directory instead) **
 - Run the following command in command line (Terminal) and pass the cron string as a single argument
 
 
